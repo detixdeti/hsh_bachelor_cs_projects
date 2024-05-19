@@ -1,0 +1,38 @@
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\sfmlnet-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\sfmlnet-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\sfmlnet-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\csfml-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\csfml-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\csfml-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\csfml-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\libsndfile-1.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\openal32.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\OpenTK.Compatibility.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\OpenTK.dll
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\assets\arial.ttf
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\SFML_GAME5.pdb
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\obj\Debug\User Input.csprojResolveAssemblyReference.cache
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\obj\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\obj\Debug\SFML_GAME5.pdb
+c:\users\lusha\documents\visual studio 2015\Projects\User Input\User Input\bin\Debug\assets\bild.png
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\csfml-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\csfml-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\csfml-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\csfml-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\libsndfile-1.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\openal32.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\OpenTK.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\sfmlnet-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\sfmlnet-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\assets\arial.ttf
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\assets\bild.png
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\bin\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\obj\Debug\User Input.csprojResolveAssemblyReference.cache
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\obj\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.4 User Input\User Input\obj\Debug\SFML_GAME5.pdb

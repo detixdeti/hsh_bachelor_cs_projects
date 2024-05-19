@@ -1,0 +1,30 @@
+D:\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe.config
+D:\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe
+D:\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.pdb
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csprojAssemblyReference.cache
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Form1.resources
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Properties.Resources.resources
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.GenerateResource.cache
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.CoreCompileInputs.cache
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.exe
+D:\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.pdb
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe.config
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.pdb
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csprojAssemblyReference.cache
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Form1.resources
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Properties.Resources.resources
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.GenerateResource.cache
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.CoreCompileInputs.cache
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.exe
+C:\Users\lusha\Desktop\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.pdb
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe.config
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.exe
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\bin\Debug\7Stunde.pdb
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csprojAssemblyReference.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Form1.resources
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\_7Stunde.Properties.Resources.resources
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.GenerateResource.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.csproj.CoreCompileInputs.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.exe
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\7Stunde\7Stunde\7Stunde\obj\Debug\7Stunde.pdb

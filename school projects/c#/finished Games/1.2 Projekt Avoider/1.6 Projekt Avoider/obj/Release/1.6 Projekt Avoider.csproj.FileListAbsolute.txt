@@ -1,0 +1,20 @@
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\sfmlnet-audio-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\sfmlnet-graphics-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\sfmlnet-system-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\sfmlnet-window-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\csfml-audio-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\csfml-graphics-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\csfml-system-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\csfml-window-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\libsndfile-1.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\openal32.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\OpenTK.Compatibility.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\OpenTK.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\assets\arial.ttf
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\SFML_GAME5.exe
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Release\SFML_GAME5.pdb
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Release\SFML_GAME5.exe
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Release\SFML_GAME5.pdb
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Release\1.6 Projekt Avoider.csprojAssemblyReference.cache
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Release\1.6 Projekt Avoider.csproj.CoreCompileInputs.cache
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Release\1.6 Projekt Avoider.csproj.CopyComplete

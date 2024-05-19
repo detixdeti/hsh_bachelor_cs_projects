@@ -1,0 +1,12 @@
+.bmi-calculator {
+    font-family: sans-serif;
+    background-color: rgba(170, 169, 163, 0.87);
+}
+.input-bmi, .result {
+    padding: 20px;
+    background-color: rgba(199, 198, 189, 0.87);
+}
+.result {
+    background: #f4f4f4;
+    background-color: rgb(104, 216, 236);
+}

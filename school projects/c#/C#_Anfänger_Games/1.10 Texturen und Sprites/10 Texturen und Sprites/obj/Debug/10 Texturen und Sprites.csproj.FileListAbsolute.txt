@@ -1,0 +1,20 @@
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\openal32.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\OpenTK.dll
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\assets\arial.ttf
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\assets\mario.png
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\assets\duck.png
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\obj\Debug\10 Texturen und Sprites.csprojResolveAssemblyReference.cache
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\10 Texturen und Sprites\10 Texturen und Sprites\obj\Debug\SFML_GAME5.pdb

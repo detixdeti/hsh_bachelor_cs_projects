@@ -1,0 +1,20 @@
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\obj\Debug\If anweisungen.csprojResolveAssemblyReference.cache
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\sfmlnet-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\sfmlnet-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\csfml-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\csfml-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\csfml-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\csfml-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\libsndfile-1.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\openal32.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\OpenTK.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\assets\arial.ttf
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\bin\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\obj\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.3 If anweisungen\If anweisungen\obj\Debug\SFML_GAME5.pdb
+E:\1.3 If anweisungen\If anweisungen\obj\Debug\SFML_GAME5.exe
+E:\1.3 If anweisungen\If anweisungen\obj\Debug\SFML_GAME5.pdb

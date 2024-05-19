@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Series>
+  <genre>Drama</genre>
+  <numberOfSeasons>3</numberOfSeasons>
+  <seenBy>
+    <password>password</password>
+    <username>Detijon</username>
+  </seenBy>
+  <seenBy>
+    <password>password</password>
+    <username>Schehat</username>
+  </seenBy>
+  <streamedBy>Netflix</streamedBy>
+  <title>Dark</title>
+</Series>

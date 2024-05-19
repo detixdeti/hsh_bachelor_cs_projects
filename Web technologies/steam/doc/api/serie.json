@@ -1,0 +1,16 @@
+{
+    "genre": "Drama",
+    "numberOfSeasons": 3,
+    "seenBy": [
+        {
+            "password": "password",
+            "username": "Detijon"
+        },
+        {
+            "password": "password",
+            "username": "Schehat"
+        }
+    ],
+    "streamedBy": "Netflix",
+    "title": "Dark"
+}

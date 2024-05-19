@@ -1,0 +1,18 @@
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\openal32.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\OpenTK.dll
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\assets\arial.ttf
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\obj\Debug\1.7 Methoden.csprojResolveAssemblyReference.cache
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.7 Methoden\1.7 Methoden\obj\Debug\SFML_GAME5.pdb

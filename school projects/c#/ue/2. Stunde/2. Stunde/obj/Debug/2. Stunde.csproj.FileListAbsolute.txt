@@ -1,0 +1,20 @@
+D:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.exe.config
+D:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.exe
+D:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.pdb
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csprojAssemblyReference.cache
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.Form1.resources
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.Properties.Resources.resources
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csproj.GenerateResource.cache
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csproj.CoreCompileInputs.cache
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.exe
+D:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.pdb
+E:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.exe.config
+E:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.exe
+E:\Kurs_POG\2. Stunde\2. Stunde\bin\Debug\_2.Stunde.pdb
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csprojAssemblyReference.cache
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.Form1.resources
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.Properties.Resources.resources
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csproj.GenerateResource.cache
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\2. Stunde.csproj.CoreCompileInputs.cache
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.exe
+E:\Kurs_POG\2. Stunde\2. Stunde\obj\Debug\_2.Stunde.pdb

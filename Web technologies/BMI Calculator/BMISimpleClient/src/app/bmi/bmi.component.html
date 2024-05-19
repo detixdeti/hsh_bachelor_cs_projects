@@ -1,0 +1,20 @@
+<div class="input-bmi">
+  <h3> Lokaler BMI Client </h3>
+    <span>Gib dein Gewicht ein [kg]: </span>
+    <input #gew="ngModel"  type="number" [(ngModel)]="gewicht"
+          (blur)="checkGewicht(gew.value)">
+          {{errorGewicht}}
+  </div>
+  <div class="input-bmi">
+    <span>Gib deine Größe ein [m]: </span>
+    <input #gro="ngModel"  type="number" value="1.75" step="0.01" [(ngModel)]="groesse"
+          (blur)="checkGroesse(gro.value)">
+          {{errorGroesse}}
+  </div>
+  <div class="input-bmi">
+    <button (click)= "clickButton()"> calculate BMI...</button>
+  </div>
+  <div class="result">
+    <span>BMI: {{ bmi | number: '1.2-2' }}</span> <br>
+    <span>{{ answer }} </span>
+  </div>

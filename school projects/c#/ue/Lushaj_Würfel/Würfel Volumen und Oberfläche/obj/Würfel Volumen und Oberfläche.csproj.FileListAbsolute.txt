@@ -1,0 +1,16 @@
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.exe
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.pdb
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\bin\Debug\Würfel Volumen und Oberfläche.exe
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\bin\Debug\Würfel Volumen und Oberfläche.pdb
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel_Volumen_und_Oberfläche.Form1.resources
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel_Volumen_und_Oberfläche.Properties.Resources.resources
+C:\Users\Heim\Documents\Schule 03-10\IT\c#\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.csproj.GenerateResource.Cache
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.exe
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.pdb
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\bin\Debug\Würfel Volumen und Oberfläche.exe
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\bin\Debug\Würfel Volumen und Oberfläche.pdb
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel_Volumen_und_Oberfläche.Form1.resources
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel_Volumen_und_Oberfläche.Properties.Resources.resources
+C:\Users\Heim\Documents\Schule 08-11\IT\c#\Programme\Würfel Volumen und Oberfläche\Würfel Volumen und Oberfläche\obj\Debug\Würfel Volumen und Oberfläche.csproj.GenerateResource.Cache

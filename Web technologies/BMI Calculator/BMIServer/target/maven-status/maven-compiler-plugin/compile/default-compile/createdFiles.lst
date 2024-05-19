@@ -1,0 +1,6 @@
+bmiserver/JAXRSConfiguration.class
+bmiserver/resources/JavaEE8Resource.class
+cors/CorsFilter.class
+bmiserver/Person.class
+bmiserver/Bmi.class
+bmiserver/BmiServer.class

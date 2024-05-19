@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+
+    <h:head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <link rel="stylesheet" type="text/css" href="main.css"/> 
+        <title>BMI Ergebnis</title>
+    </h:head>
+
+    <h:body>
+
+        <h3> Dies ist dein BMI vom 
+            <h:outputText  value="#{bean_handler.today()}" > 
+                <f:convertDateTime dateStyle="long" locale="de"/>
+            </h:outputText>
+        </h3>
+        
+        <h:form>
+            
+            Du hast einen BMI von:
+            <h:outputText  value="#{bean_data.bmi}" >
+                <f:convertNumber type="number" maxFractionDigits="2"/>
+            </h:outputText>    
+            
+            <br/>
+            
+            <h:outputText  value="#{bean_handler.createMessage(bean_data)}" />
+            
+            <br/>
+            
+            Der bisher größte gemessene BMI-Wert war: 
+            <h:outputText  value="#{bean_handler.getMax()}" >
+                <f:convertNumber type="number" maxFractionDigits="2"/>
+            </h:outputText>
+            
+            <br/>
+            
+            <h:link value = "zurueck" outcome = "bmi_start.xhtml" />
+
+        </h:form>
+
+
+
+    </h:body>
+
+</html>

@@ -1,0 +1,10 @@
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\bin\Release\_5.Stunde.exe.config
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\bin\Release\_5.Stunde.exe
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\bin\Release\_5.Stunde.pdb
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\5. Stunde.csprojAssemblyReference.cache
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\_5.Stunde.Form1.resources
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\_5.Stunde.Properties.Resources.resources
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\5. Stunde.csproj.GenerateResource.cache
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\5. Stunde.csproj.CoreCompileInputs.cache
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\_5.Stunde.exe
+E:\1.6 Informatik\12.2 - Programmieren\5. Stunde\5. Stunde\obj\Release\_5.Stunde.pdb

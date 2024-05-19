@@ -1,0 +1,20 @@
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\sfmlnet-audio-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\sfmlnet-graphics-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\sfmlnet-system-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\sfmlnet-window-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\csfml-audio-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\csfml-graphics-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\csfml-system-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\csfml-window-2.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\libsndfile-1.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\openal32.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\OpenTK.Compatibility.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\OpenTK.dll
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\assets\arial.ttf
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\SFML_GAME5.exe
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\bin\Debug\SFML_GAME5.pdb
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\obj\Debug\1.18 Interaktion von Entities.csprojAssemblyReference.cache
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\obj\Debug\1.18 Interaktion von Entities.csproj.CoreCompileInputs.cache
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\obj\Debug\1.18 Interaktion von Entities.csproj.CopyComplete
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\obj\Debug\SFML_GAME5.exe
+D:\AG_Pog\1.18 Interaktion von Entities\1.18 Interaktion von Entities\obj\Debug\SFML_GAME5.pdb

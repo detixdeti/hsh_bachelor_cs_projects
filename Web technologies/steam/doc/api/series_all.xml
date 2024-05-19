@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Series>
+  <row>
+    <genre>Drama</genre>
+    <numberOfSeasons>3</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Detijon</username>
+    </seenBy>
+    <seenBy>
+      <password>password</password>
+      <username>Schehat</username>
+    </seenBy>
+    <streamedBy>Netflix</streamedBy>
+    <title>Dark</title>
+  </row>
+  <row>
+    <genre>ScienceFiction</genre>
+    <numberOfSeasons>7</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Detijon</username>
+    </seenBy>
+    <seenBy>
+      <password>password</password>
+      <username>Schehat</username>
+    </seenBy>
+    <streamedBy>AmazonPrime</streamedBy>
+    <title>Breaking Bad</title>
+  </row>
+  <row>
+    <genre>Thriller</genre>
+    <numberOfSeasons>10</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Detijon</username>
+    </seenBy>
+    <seenBy>
+      <password>password</password>
+      <username>Schehat</username>
+    </seenBy>
+    <streamedBy>Sky</streamedBy>
+    <title>Game Of Thrones</title>
+  </row>
+  <row>
+    <genre>Drama</genre>
+    <numberOfSeasons>10</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Schehat</username>
+    </seenBy>
+    <streamedBy>Netflix</streamedBy>
+    <title>Narcos</title>
+  </row>
+  <row>
+    <genre>Drama</genre>
+    <numberOfSeasons>10</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Detijon</username>
+    </seenBy>
+    <streamedBy>Netflix</streamedBy>
+    <title>One Piece</title>
+  </row>
+</Series>

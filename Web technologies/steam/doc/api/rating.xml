@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Rating>
+  <ratedSeries>
+    <genre>Drama</genre>
+    <numberOfSeasons>3</numberOfSeasons>
+    <seenBy>
+      <password>password</password>
+      <username>Detijon</username>
+    </seenBy>
+    <seenBy>
+      <password>password</password>
+      <username>Schehat</username>
+    </seenBy>
+    <streamedBy>Netflix</streamedBy>
+    <title>Dark</title>
+  </ratedSeries>
+  <ratingUser>
+    <password>password</password>
+    <username>Schehat</username>
+  </ratingUser>
+  <remark>Schehat</remark>
+  <score>bad</score>
+</Rating>

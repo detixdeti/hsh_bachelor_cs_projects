@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"   
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core"
+      >
+    <h:head>
+        <link rel="stylesheet" type="text/css" href="table-style.css"/>
+    </h:head>
+    <h:body>
+                
+        <h1>Teilnehmerliste:</h1>
+        <h:dataTable value="#{students.studList}" var="s"
+                     styleClass="order-table"
+                     headerClass="order-table-header">
+            <h:column>
+                <!-- column header -->
+                <f:facet name="header">Vorname</f:facet>
+                <!-- row record -->
+                #{s.firstName}
+            </h:column>
+
+            <h:column>
+                <f:facet name="header"> Nachname</f:facet>
+                    #{s.lastName}
+            </h:column>
+
+            <h:column>
+                <f:facet name="header">Matrikelnummer</f:facet>
+                    #{s.nr}
+            </h:column>
+            <h:column>
+                <f:facet name="header">Details</f:facet>
+                <h:form>
+                    <h:commandButton value="goToDetails" action="#{students.changeStud(s)}"/>
+                </h:form>
+
+            </h:column>
+        </h:dataTable>
+
+    </h:body>
+
+</html>
+

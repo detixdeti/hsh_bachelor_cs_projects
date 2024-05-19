@@ -1,0 +1,19 @@
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_TEMPLATE 1.6 64bit1.csprojResolveAssemblyReference.cache
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\openal32.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.dll
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\assets\arial.ttf
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\assets\spritesheet.png
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\11 Animationen & Spritesheets\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.pdb

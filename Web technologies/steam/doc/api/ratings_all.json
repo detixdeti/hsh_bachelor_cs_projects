@@ -1,0 +1,94 @@
+[
+    {
+        "ratedSeries": {
+            "genre": "Drama",
+            "numberOfSeasons": 3,
+            "seenBy": [
+                {
+                    "password": "password",
+                    "username": "Detijon"
+                },
+                {
+                    "password": "password",
+                    "username": "Schehat"
+                }
+            ],
+            "streamedBy": "Netflix",
+            "title": "Dark"
+        },
+        "ratingUser": {
+            "password": "password",
+            "username": "Schehat"
+        },
+        "remark": "Schehat",
+        "score": "bad"
+    },
+    {
+        "ratedSeries": {
+            "genre": "ScienceFiction",
+            "numberOfSeasons": 7,
+            "seenBy": [
+                {
+                    "password": "password",
+                    "username": "Detijon"
+                },
+                {
+                    "password": "password",
+                    "username": "Schehat"
+                }
+            ],
+            "streamedBy": "AmazonPrime",
+            "title": "Breaking Bad"
+        },
+        "ratingUser": {
+            "password": "password",
+            "username": "Schehat"
+        },
+        "remark": "Schehat",
+        "score": "very_good"
+    },
+    {
+        "ratedSeries": {
+            "genre": "Thriller",
+            "numberOfSeasons": 10,
+            "seenBy": [
+                {
+                    "password": "password",
+                    "username": "Detijon"
+                },
+                {
+                    "password": "password",
+                    "username": "Schehat"
+                }
+            ],
+            "streamedBy": "Sky",
+            "title": "Game Of Thrones"
+        },
+        "ratingUser": {
+            "password": "password",
+            "username": "Schehat"
+        },
+        "remark": "Schehat",
+        "score": "very_good"
+    },
+    {
+        "ratedSeries": {
+            "genre": "Drama",
+            "numberOfSeasons": 10,
+            "seenBy": [
+                {
+                    "password": "password",
+                    "username": "Schehat"
+                }
+            ],
+            "streamedBy": "Netflix",
+            "title": "Narcos"
+        },
+        "ratingUser": {
+            "password": "password",
+            "username": "Schehat"
+        },
+        "remark": "Schehat",
+        "score": "very_good"
+    }
+]

@@ -1,0 +1,18 @@
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\openal32.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\OpenTK.dll
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\assets\arial.ttf
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Debug\1.6 Projekt Avoider.csprojResolveAssemblyReference.cache
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.6 Projekt Avoider\1.6 Projekt Avoider\obj\Debug\SFML_GAME5.pdb

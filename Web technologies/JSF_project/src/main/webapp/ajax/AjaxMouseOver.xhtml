@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <h:head>
+        <title>Ajax Mouse Over </title>
+    </h:head>
+    <h:body>
+        <iframe width="410" height="340" 
+                src="https://www.youtube.com/embed/utPjndVsHNI">
+        </iframe>
+        
+        <h:form>
+            <f:ajax event="mouseover" render="name" execute="first last" > <br/>
+                    <h:inputText id="first" value="#{ajaxTest.first}"/> <br/>
+                    <h:inputText id="last" value="#{ajaxTest.last}"/> <br/>
+            </f:ajax>
+            <h:outputText id="name" value="#{ajaxTest.name}"/>
+        </h:form>
+        
+    </h:body>
+</html>
+

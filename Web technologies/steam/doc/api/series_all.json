@@ -1,0 +1,74 @@
+[
+    {
+        "genre": "Drama",
+        "numberOfSeasons": 3,
+        "seenBy": [
+            {
+                "password": "password",
+                "username": "Detijon"
+            },
+            {
+                "password": "password",
+                "username": "Schehat"
+            }
+        ],
+        "streamedBy": "Netflix",
+        "title": "Dark"
+    },
+    {
+        "genre": "ScienceFiction",
+        "numberOfSeasons": 7,
+        "seenBy": [
+            {
+                "password": "password",
+                "username": "Detijon"
+            },
+            {
+                "password": "password",
+                "username": "Schehat"
+            }
+        ],
+        "streamedBy": "AmazonPrime",
+        "title": "Breaking Bad"
+    },
+    {
+        "genre": "Thriller",
+        "numberOfSeasons": 10,
+        "seenBy": [
+            {
+                "password": "password",
+                "username": "Detijon"
+            },
+            {
+                "password": "password",
+                "username": "Schehat"
+            }
+        ],
+        "streamedBy": "Sky",
+        "title": "Game Of Thrones"
+    },
+    {
+        "genre": "Drama",
+        "numberOfSeasons": 10,
+        "seenBy": [
+            {
+                "password": "password",
+                "username": "Schehat"
+            }
+        ],
+        "streamedBy": "Netflix",
+        "title": "Narcos"
+    },
+    {
+        "genre": "Drama",
+        "numberOfSeasons": 10,
+        "seenBy": [
+            {
+                "password": "password",
+                "username": "Detijon"
+            }
+        ],
+        "streamedBy": "Netflix",
+        "title": "One Piece"
+    }
+]

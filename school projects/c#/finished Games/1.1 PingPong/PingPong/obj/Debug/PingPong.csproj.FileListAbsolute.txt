@@ -1,0 +1,74 @@
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\sfmlnet-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\sfmlnet-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\sfmlnet-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\csfml-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\csfml-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\csfml-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\csfml-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\libsndfile-1.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\openal32.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\OpenTK.Compatibility.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\OpenTK.dll
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\assets\arial.ttf
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\bin\Debug\SFML_GAME5.pdb
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\obj\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\PingPong\PingPong\obj\Debug\SFML_GAME5.pdb
+E:\PingPong\PingPong\obj\Debug\SFML_GAME5.exe
+E:\PingPong\PingPong\obj\Debug\SFML_GAME5.pdb
+E:\PingPong\PingPong\bin\Debug\csfml-audio-2.dll
+E:\PingPong\PingPong\bin\Debug\csfml-graphics-2.dll
+E:\PingPong\PingPong\bin\Debug\csfml-system-2.dll
+E:\PingPong\PingPong\bin\Debug\csfml-window-2.dll
+E:\PingPong\PingPong\bin\Debug\libsndfile-1.dll
+E:\PingPong\PingPong\bin\Debug\openal32.dll
+E:\PingPong\PingPong\bin\Debug\OpenTK.Compatibility.dll
+E:\PingPong\PingPong\bin\Debug\OpenTK.dll
+E:\PingPong\PingPong\bin\Debug\sfmlnet-audio-2.dll
+E:\PingPong\PingPong\bin\Debug\sfmlnet-graphics-2.dll
+E:\PingPong\PingPong\bin\Debug\sfmlnet-system-2.dll
+E:\PingPong\PingPong\bin\Debug\sfmlnet-window-2.dll
+E:\PingPong\PingPong\bin\Debug\assets\arial.ttf
+E:\PingPong\PingPong\bin\Debug\SFML_GAME5.exe
+E:\PingPong\PingPong\bin\Debug\SFML_GAME5.pdb
+E:\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+E:\AG_Pog\PingPong\PingPong\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\PingPong\PingPong\obj\Debug\SFML_GAME5.pdb
+E:\AG_Pog\PingPong\PingPong\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\openal32.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\OpenTK.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\PingPong\PingPong\bin\Debug\assets\arial.ttf
+E:\AG_Pog\PingPong\PingPong\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\PingPong\PingPong\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\PingPong\PingPong\obj\Debug\PingPong.csprojResolveAssemblyReference.cache
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\openal32.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\OpenTK.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\assets\arial.ttf
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\z PingPong\PingPong\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\z PingPong\PingPong\obj\Debug\PingPong.csprojAssemblyReference.cache
+E:\AG_Pog\z PingPong\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+E:\AG_Pog\z PingPong\PingPong\obj\Debug\PingPong.csproj.CopyComplete
+E:\AG_Pog\z PingPong\PingPong\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\z PingPong\PingPong\obj\Debug\SFML_GAME5.pdb

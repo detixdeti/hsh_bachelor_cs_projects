@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<User>
+  <row>
+    <password>password</password>
+    <username>Detijon</username>
+  </row>
+  <row>
+    <password>password</password>
+    <username>Schehat</username>
+  </row>
+  <row>
+    <password>password</password>
+    <username>Furkan</username>
+  </row>
+  <row>
+    <password>password</password>
+    <username>Aland</username>
+  </row>
+</User>

@@ -1,0 +1,38 @@
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-audio-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-graphics-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-system-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-window-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-audio-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-graphics-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-system-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-window-2.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\libsndfile-1.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\openal32.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.Compatibility.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.dll
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\assets\arial.ttf
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.exe
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.pdb
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_TEMPLATE 1.6 64bit1.csprojResolveAssemblyReference.cache
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.exe
+E:\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\csfml-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\libsndfile-1.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\openal32.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\OpenTK.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-system-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\sfmlnet-window-2.dll
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\assets\arial.ttf
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\bin\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_TEMPLATE 1.6 64bit1.csprojResolveAssemblyReference.cache
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\SFML_TEMPLATE 1.6 64bit1\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.5 Arrays und Schleifen\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.5 Arrays und Schleifen\SFML_TEMPLATE 1.6 64bit1\obj\Debug\SFML_GAME5.pdb

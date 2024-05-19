@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    <head>  <title>Converter Page</title>    </head>
+    <body>
+        Name:  <h:outputText value="#{employee.nickname}" /> <br/>
+        Date of Birth:
+          <h:outputText value="#{employee.dateOfBirth}" >
+               <f:convertDateTime dateStyle="long" locale="en"/>
+          </h:outputText>  <br/>
+        Monthly Income:
+         <h:outputText value="#{employee.income}">
+              <f:convertNumber type="currency" currencySymbol="EUR"/>
+         </h:outputText>
+    </body> 
+</html>
+

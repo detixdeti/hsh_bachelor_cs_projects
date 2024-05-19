@@ -1,0 +1,33 @@
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe.config
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.pdb
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csprojAssemblyReference.cache
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form1.resources
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Properties.Resources.resources
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.GenerateResource.cache
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.CoreCompileInputs.cache
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.exe
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.pdb
+D:\Programiiieirren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form2.resources
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe.config
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.pdb
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csprojAssemblyReference.cache
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form1.resources
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form2.resources
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Properties.Resources.resources
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.GenerateResource.cache
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.CoreCompileInputs.cache
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.exe
+C:\Users\lusha\Desktop\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.pdb
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe.config
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.exe
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\bin\Debug\Hausaufgabe 7.pdb
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csprojAssemblyReference.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form1.resources
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Form2.resources
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe_7.Properties.Resources.resources
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.GenerateResource.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.csproj.CoreCompileInputs.cache
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.exe
+D:\Seafile\Seafile\Meine Bibliothek\1.6 Informatik\12.2 - Programmieren\Hausaufgabe 7\Hausaufgabe 7\obj\Debug\Hausaufgabe 7.pdb

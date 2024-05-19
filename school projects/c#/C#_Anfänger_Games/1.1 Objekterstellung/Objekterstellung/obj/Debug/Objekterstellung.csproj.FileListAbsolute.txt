@@ -1,0 +1,20 @@
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\sfmlnet-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\sfmlnet-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\sfmlnet-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\csfml-audio-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\csfml-graphics-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\csfml-system-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\csfml-window-2.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\libsndfile-1.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\openal32.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\OpenTK.Compatibility.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\OpenTK.dll
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\assets\arial.ttf
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\bin\Debug\SFML_GAME5.pdb
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\obj\Debug\Objekterstellung.csprojResolveAssemblyReference.cache
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\obj\Debug\SFML_GAME5.exe
+c:\users\lusha\documents\visual studio 2015\Projects\Objekterstellung\Objekterstellung\obj\Debug\SFML_GAME5.pdb
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.1 Objekterstellung\Objekterstellung\obj\Debug\SFML_GAME5.exe
+C:\Users\lusha\Documents\Visual Studio 2015\Projects\1.1 Objekterstellung\Objekterstellung\obj\Debug\SFML_GAME5.pdb

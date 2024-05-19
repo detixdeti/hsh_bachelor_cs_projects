@@ -1,0 +1,44 @@
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-audio-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-graphics-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-system-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-window-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-audio-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-graphics-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-system-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-window-2.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\libsndfile-1.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\openal32.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\OpenTK.Compatibility.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\OpenTK.dll
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\arial.ttf
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\SFML_GAME5.exe
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\SFML_GAME5.pdb
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csprojAssemblyReference.cache
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csproj.CoreCompileInputs.cache
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csproj.CopyComplete
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\SFML_GAME5.exe
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\SFML_GAME5.pdb
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\tileset32x32.png
+D:\AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\tileset.tmx
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\tileset32x32.png
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-audio-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-graphics-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-system-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\csfml-window-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\libsndfile-1.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\openal32.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\OpenTK.Compatibility.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\OpenTK.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-audio-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-graphics-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-system-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\sfmlnet-window-2.dll
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\arial.ttf
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\assets\tileset.tmx
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\SFML_GAME5.exe
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\bin\Debug\SFML_GAME5.pdb
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csprojAssemblyReference.cache
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csproj.CoreCompileInputs.cache
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\1.19 Tilemaps_.csproj.CopyComplete
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\SFML_GAME5.exe
+E:\3 AG_Pog\1.19 Tilemaps_\1.19 Tilemaps_\obj\Debug\SFML_GAME5.pdb

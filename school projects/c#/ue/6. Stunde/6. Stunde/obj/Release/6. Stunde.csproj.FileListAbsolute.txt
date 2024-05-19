@@ -1,0 +1,32 @@
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe.config
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\bin\Release\_6.Stunde.pdb
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Form1.resources
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Properties.Resources.resources
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.GenerateResource.cache
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.CoreCompileInputs.cache
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\_6.Stunde.exe
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\_6.Stunde.pdb
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\6. Stunde.csprojAssemblyReference.cache
+E:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe.config
+E:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe
+E:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.pdb
+E:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csprojAssemblyReference.cache
+E:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Form1.resources
+E:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Properties.Resources.resources
+E:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.GenerateResource.cache
+E:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.CoreCompileInputs.cache
+E:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.exe
+E:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.pdb
+D:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe.config
+D:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.exe
+D:\6. Stunde\6. Stunde\bin\Release\_6.Stunde.pdb
+D:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csprojAssemblyReference.cache
+D:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Form1.resources
+D:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Form2.resources
+D:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Properties.Resources.resources
+D:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.GenerateResource.cache
+D:\6. Stunde\6. Stunde\obj\Release\6. Stunde.csproj.CoreCompileInputs.cache
+D:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.exe
+D:\6. Stunde\6. Stunde\obj\Release\_6.Stunde.pdb
+C:\Users\lusha\Desktop\6. Stunde\6. Stunde\obj\Release\_6.Stunde.Form2.resources

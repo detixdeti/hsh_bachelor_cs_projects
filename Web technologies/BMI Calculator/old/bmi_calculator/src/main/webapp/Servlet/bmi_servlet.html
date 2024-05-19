@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Start Page</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+      <form action ="http://localhost:8080/bmi_calculator/calculator" method="post">
+            <b><b>Wie groß sind Sie? (in cm) </b><br>
+            <input type="number" name="cm" placeholder="in cm" min="100" max="300" required/> <br/>
+            <b><b>Was wiegen Sie momentan? (in kg) </b><br>
+            <input type="number" name="kg" placeholder="in kg" min="30" max="300" required /> <br/> 
+            <input type="submit" value="callServlet">
+      </form>
+    </body>
+</html>

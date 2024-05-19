@@ -1,0 +1,40 @@
+D:\AG_Pog\Enteties 3\Enteties 3\obj\Debug\Enteties 3.csprojAssemblyReference.cache
+D:\AG_Pog\Enteties 3\Enteties 3\obj\Debug\Enteties 3.csproj.CoreCompileInputs.cache
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\sfmlnet-audio-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\sfmlnet-graphics-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\sfmlnet-system-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\sfmlnet-window-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\csfml-audio-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\csfml-graphics-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\csfml-system-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\csfml-window-2.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\libsndfile-1.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\openal32.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\OpenTK.Compatibility.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\OpenTK.dll
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\assets\arial.ttf
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\SFML_GAME5.exe
+D:\AG_Pog\Enteties 3\Enteties 3\bin\Debug\SFML_GAME5.pdb
+D:\AG_Pog\Enteties 3\Enteties 3\obj\Debug\Enteties 3.csproj.CopyComplete
+D:\AG_Pog\Enteties 3\Enteties 3\obj\Debug\SFML_GAME5.exe
+D:\AG_Pog\Enteties 3\Enteties 3\obj\Debug\SFML_GAME5.pdb
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\csfml-audio-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\csfml-graphics-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\csfml-system-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\csfml-window-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\libsndfile-1.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\openal32.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\OpenTK.Compatibility.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\OpenTK.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\sfmlnet-audio-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\sfmlnet-graphics-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\sfmlnet-system-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\sfmlnet-window-2.dll
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\assets\arial.ttf
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\bin\Debug\SFML_GAME5.pdb
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\obj\Debug\Enteties 3.csprojAssemblyReference.cache
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\obj\Debug\Enteties 3.csproj.CoreCompileInputs.cache
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\obj\Debug\Enteties 3.csproj.CopyComplete
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\obj\Debug\SFML_GAME5.exe
+E:\AG_Pog\1.17 Enteties 3\Enteties 3\obj\Debug\SFML_GAME5.pdb
